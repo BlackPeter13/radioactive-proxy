@@ -1,0 +1,6 @@
+{
+  "pools": [
+    { "name": "Pool 1", "url": "http://pool1.example.com" },
+    { "name": "Pool 2", "url": "http://pool2.example.com" }
+  ]
+}
