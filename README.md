@@ -15,8 +15,11 @@ a. Node.js Environment
     bash
 
     mkdir merged-mining-proxy
+   
     cd merged-mining-proxy
+   
     npm init -y
+   
     npm install express axios
 
 b. Python Environment
